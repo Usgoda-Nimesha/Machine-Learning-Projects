@@ -1,0 +1,3 @@
+pip3 install matplotlib albumentations
+pip3 install labelme
+labelme
